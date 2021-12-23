@@ -24,6 +24,7 @@
 #### Also learning:
 
 [![Python](https://img.shields.io/badge/Python-a30800?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-2d9fc1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 
 #### 📫 How to reach me:</br>
 [![Mail](https://img.shields.io/badge/-yandirad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yandirad@gmail.com)
