@@ -20,7 +20,7 @@
 </br>
 [![Workbench](https://img.shields.io/badge/Workbench-8e398e?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-8e398e?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![GitLab](https://img.shields.io/badge/GitHub-8e398e?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
+[![GitLab](https://img.shields.io/badge/GitLab-8e398e?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 
 #### Also learning:
 
