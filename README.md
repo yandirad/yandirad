@@ -20,10 +20,10 @@
 </br>
 [![Workbench](https://img.shields.io/badge/Workbench-8e398e?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-8e398e?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![GitLab](https://img.shields.io/badge/GitHub-8e398e?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 
 #### Also learning:
 
-[![Python](https://img.shields.io/badge/Python-a30800?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-2d9fc1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 
 #### 📫 How to reach me:</br>
