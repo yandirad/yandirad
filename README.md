@@ -30,5 +30,4 @@
 [![Mail](https://img.shields.io/badge/-yandirad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yandirad@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-yandirad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yandirad/)
 
-#### GitHub Stats:
-[![Yandira's GitHub stats](https://github-readme-stats.vercel.app/api?username=yandirad&hide=prs,issues&show_icons=true&theme=synthwave)](https://github.com/yandirad/github-readme-stats)
+Take a look at my projects [here](https://github.com/yandirad?tab=repositories)!
